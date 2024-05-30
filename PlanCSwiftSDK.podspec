@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   
   s.dependency 'AFNetworking'
   s.dependency 'SVProgressHUD'
-  s.dependency 'RongCloudIM/IMLib', '~> 5.6.4'
+  s.dependency 'RongCloudIM/IMLib', '~> 5.6.11'
 
   s.swift_version = '5.0'
 end
