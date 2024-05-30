@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CLEo12qWjtLhGgD5Zg1F38dmRqM=
+		nWijVWAPRY4kt0ACK/2dP0fMH/w=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4Ims6M+2rDZUI42GK7nExDYLJao=
+		B1eRiU08QIdVVOLyugN20sRW6e8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,7 +65,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jUuCYn7rMsZbq1gG8mve4tmWL92AVnGeMngGXHmZ9vs=
+			p3xTndDbMZaBbHxs9S/a10lCXDIObn1UJ/XcHDxZKIA=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z55XUVCN83upb1FlzmOgglt8DtUcjSGr7cn9YZiCCvE=
+			FOX9TKRM31QvTTnNMwADGFWTgvlXnNihLHwwFy0Bdrw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
