@@ -231,8 +231,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -243,7 +244,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@PlanCSwiftSDK@objc(cs)PlanCAPI(im)planCOpenUrl:",
-            "mangledName": "$s13PlanCSwiftSDK0A4CAPIC12planCOpenUrlyy10Foundation3URLVF",
+            "mangledName": "$s13PlanCSwiftSDK0A4CAPIC12planCOpenUrlySb10Foundation3URLVF",
             "moduleName": "PlanCSwiftSDK",
             "declAttributes": [
               "AccessControl",

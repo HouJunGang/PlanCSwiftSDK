@@ -308,7 +308,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PlanCAPI * _
 + (PlanCAPI * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 @property (nonatomic, strong) UIApplication * _Nonnull application;
 - (void)planCDidBecomeActive;
-- (void)planCOpenUrl:(NSURL * _Nonnull)url;
+- (BOOL)planCOpenUrl:(NSURL * _Nonnull)url SWIFT_WARN_UNUSED_RESULT;
 - (void)planCDidRegisterForRemoteNotificationsWithDeviceToken:(NSData * _Nonnull)deviceToken;
 /// 判断是否已安装微信并且是非英文环境
 - (BOOL)planCIsWeiAndNotEN SWIFT_WARN_UNUSED_RESULT;

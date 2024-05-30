@@ -21,7 +21,7 @@ import _SwiftConcurrencyShims
     @objc set
   }
   @objc public func planCDidBecomeActive()
-  @objc public func planCOpenUrl(_ url: Foundation.URL)
+  @objc public func planCOpenUrl(_ url: Foundation.URL) -> Swift.Bool
   @objc public func planCDidRegisterForRemoteNotificationsWithDeviceToken(_ deviceToken: Foundation.Data)
   @objc public func planCIsWeiAndNotEN() -> Swift.Bool
   @objc override dynamic public init()
