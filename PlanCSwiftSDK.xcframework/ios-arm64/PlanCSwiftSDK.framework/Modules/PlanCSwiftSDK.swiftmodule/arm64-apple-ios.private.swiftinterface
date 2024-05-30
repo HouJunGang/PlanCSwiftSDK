@@ -14,6 +14,11 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+extension Alamofire.Session {
+  public func encodeURI(string: Swift.String) -> Swift.String
+  public func sortedJSONString(dictionary: [Swift.String : Any]) -> Swift.String?
+  public func planCRequest(url: any Alamofire.URLConvertible, method: Alamofire.HTTPMethod = .post, parameters: Alamofire.Parameters?, success: @escaping ((Any) -> Swift.Void), failure: @escaping ((Swift.String) -> Swift.Void))
+}
 @objc @_inheritsConvenienceInitializers public class PlanCAPI : ObjectiveC.NSObject {
   public static let shared: PlanCSwiftSDK.PlanCAPI
   public var application: UIKit.UIApplication {
