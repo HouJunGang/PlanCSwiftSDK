@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/HouJunGang/PlanCSwiftSDK.git', :tag => s.version.to_s }
   s.vendored_frameworks = 'PlanCSwiftSDK.xcframework'
   
-  s.dependency 'AFNetworking'
+  s.dependency 'Alamofire'
   s.dependency 'SVProgressHUD'
   s.dependency 'RongCloudIM/IMLib', '~> 5.6.11'
 
