@@ -49,10 +49,6 @@
 	<dict>
 		<key>Headers/PlanCSwiftSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+q44UObgPsdYiHrOTpeHmZ4ac50=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y+1C0tOF4ZrbY1tFQUe1QPIabDyvGGd7mawMfNZoWOw=
@@ -60,10 +56,6 @@
 		</dict>
 		<key>Headers/PlanCSwiftSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JZuoiG86nhV6mvNIdf4QwYpkyNw=
-			</data>
 			<key>hash2</key>
 			<data>
 			sozZc6dAGPUtVEtpzjyGYXq+FpNkfLWSG4QpPRXk+kU=
@@ -71,10 +63,6 @@
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CLEo12qWjtLhGgD5Zg1F38dmRqM=
-			</data>
 			<key>hash2</key>
 			<data>
 			jUuCYn7rMsZbq1gG8mve4tmWL92AVnGeMngGXHmZ9vs=
@@ -82,10 +70,6 @@
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			fEYp6lBbSXRlyERg8g/iaq7U+04Fj1JyrP+XVtc3Myc=
@@ -93,10 +77,6 @@
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F2bV3zWk9tJOgb0EEKEw9Xi+cfg=
-			</data>
 			<key>hash2</key>
 			<data>
 			H5Hi7u7vEoD6TtPrxC/Xp/cjLj+OGoe9UFE3DfDXxhI=
@@ -104,10 +84,6 @@
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			fEYp6lBbSXRlyERg8g/iaq7U+04Fj1JyrP+XVtc3Myc=
@@ -115,10 +91,6 @@
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y+TjDZz5ihgJUcjvRsylhL0C8Nw=
-			</data>
 			<key>hash2</key>
 			<data>
 			nA2Qn/sa2e/m3DmWuen1DIrhcK2hJA187zezq+WL02M=
@@ -126,10 +98,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9zvckwPSVI8c763u6rRbnhb+qQ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			N+/UPJIUeefa37rYCiBebW0gYzGtroTiDj78UZdAUzk=
@@ -137,10 +105,6 @@
 		</dict>
 		<key>RCConfig.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QA7nn/q1j2Y4AJbaGtBBs8g71xE=
-			</data>
 			<key>hash2</key>
 			<data>
 			q9qti/DvWdK6nHCUQ3R/b3gsZ4wASUjoeUzGtn7YyXI=
