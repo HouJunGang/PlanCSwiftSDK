@@ -298,20 +298,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-@class UIApplication;
-@class NSURL;
-@class NSData;
 
 SWIFT_CLASS("_TtC13PlanCSwiftSDK8PlanCAPI")
 @interface PlanCAPI : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PlanCAPI * _Nonnull shared;)
-+ (PlanCAPI * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
-@property (nonatomic, strong) UIApplication * _Nonnull application;
-- (void)planCDidBecomeActive;
-- (BOOL)planCOpenUrl:(NSURL * _Nonnull)url SWIFT_WARN_UNUSED_RESULT;
-- (void)planCDidRegisterForRemoteNotificationsWithDeviceToken:(NSData * _Nonnull)deviceToken;
-/// 判断是否已安装微信并且是非英文环境
-- (BOOL)planCIsWeiAndNotEN SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

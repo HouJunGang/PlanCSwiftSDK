@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PlanCSwiftSDK-Swift.h</key>
 		<data>
-		cA99oy4E4RinLDK0D9XTFEASJ+E=
+		EbHEZuFtVKsmvOG+5DUPv9zJliM=
 		</data>
 		<key>Headers/PlanCSwiftSDK.h</key>
 		<data>
@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AlpusP7kPf3s3wNtqqKTavEXBK4=
+		CLEo12qWjtLhGgD5Zg1F38dmRqM=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WcV+6ZbnQ0F/59LCW//Ogz3Hsho=
+		e5BMW21HmuaLTHlvaL3UtQYLf5U=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TbKzZUDoj1TWeQpoaeS+BZGHE4E=
+		ez0ip5c+MrJZPKRs2ve++qn9Jzw=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WcV+6ZbnQ0F/59LCW//Ogz3Hsho=
+		e5BMW21HmuaLTHlvaL3UtQYLf5U=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z1C/w5tQdiiM/GbW0ovzKF93FeY=
+		H+lMtClSTltl3Wy1URwV/VsLHss=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cA99oy4E4RinLDK0D9XTFEASJ+E=
+			EbHEZuFtVKsmvOG+5DUPv9zJliM=
 			</data>
 			<key>hash2</key>
 			<data>
-			fo4UNfqFUFBd/adrRrA7W3P7pIxDYsUoJHuY9MwrACI=
+			r/ZuITreNUAPQUPn+ROamYyQKEL1ydfSj0+bzMkne/8=
 			</data>
 		</dict>
 		<key>Headers/PlanCSwiftSDK.h</key>
@@ -73,55 +73,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AlpusP7kPf3s3wNtqqKTavEXBK4=
+			CLEo12qWjtLhGgD5Zg1F38dmRqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8IpNPL9g/28/LZlsFpnK8zDXK7ruoXWbmwICy/wartI=
+			jUuCYn7rMsZbq1gG8mve4tmWL92AVnGeMngGXHmZ9vs=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WcV+6ZbnQ0F/59LCW//Ogz3Hsho=
+			e5BMW21HmuaLTHlvaL3UtQYLf5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			RMPTT0Gg6o8sxYdP5fQiSh47jW3PqZjadKtsNf7ueKg=
+			44fGhF74A+PgRDBMxl31WSBRKmhMQGwRzFKC/B6uSb0=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TbKzZUDoj1TWeQpoaeS+BZGHE4E=
+			ez0ip5c+MrJZPKRs2ve++qn9Jzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIBtLc2C6QwgSlRawsmJnjtj+xpwLMYNCgo/IwfpMM8=
+			OqVVVbSJQ5ZkPqeTSDrdt7om+rrtM6PZy7Pt/temgmI=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WcV+6ZbnQ0F/59LCW//Ogz3Hsho=
+			e5BMW21HmuaLTHlvaL3UtQYLf5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			RMPTT0Gg6o8sxYdP5fQiSh47jW3PqZjadKtsNf7ueKg=
+			44fGhF74A+PgRDBMxl31WSBRKmhMQGwRzFKC/B6uSb0=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1C/w5tQdiiM/GbW0ovzKF93FeY=
+			H+lMtClSTltl3Wy1URwV/VsLHss=
 			</data>
 			<key>hash2</key>
 			<data>
-			CrQcb3/LS8NVEglXQts5Cet8c1Xiwzpa6Pn1nHsRX9g=
+			Z9ONisPkRvtv+f87Nzg6PAej9cBgWSazAvnhgvxPDCc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

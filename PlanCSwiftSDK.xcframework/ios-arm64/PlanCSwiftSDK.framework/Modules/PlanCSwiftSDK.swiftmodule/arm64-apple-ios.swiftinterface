@@ -14,16 +14,16 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers @objcMembers public class PlanCAPI : ObjectiveC.NSObject {
-  @objc public static let shared: PlanCSwiftSDK.PlanCAPI
-  @objc public var application: UIKit.UIApplication {
-    @objc get
-    @objc set
+@objc @_inheritsConvenienceInitializers public class PlanCAPI : ObjectiveC.NSObject {
+  public static let shared: PlanCSwiftSDK.PlanCAPI
+  public var application: UIKit.UIApplication {
+    get
+    set
   }
-  @objc public func planCDidBecomeActive()
-  @objc public func planCOpenUrl(_ url: Foundation.URL) -> Swift.Bool
-  @objc public func planCDidRegisterForRemoteNotificationsWithDeviceToken(_ deviceToken: Foundation.Data)
-  @objc public func planCIsWeiAndNotEN() -> Swift.Bool
+  public func planCDidBecomeActive()
+  public func planCOpenUrl(_ url: Foundation.URL) -> Swift.Bool
+  public func planCDidRegisterForRemoteNotificationsWithDeviceToken(_ deviceToken: Foundation.Data)
+  public func planCIsWeiAndNotEN() -> Swift.Bool
   @objc override dynamic public init()
   @objc deinit
 }

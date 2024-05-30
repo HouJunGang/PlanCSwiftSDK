@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PlanCSwiftSDK-Swift.h</key>
 		<data>
-		o7d5mVOQT+vgACUKWHkJmS+ilmk=
+		+q44UObgPsdYiHrOTpeHmZ4ac50=
 		</data>
 		<key>Headers/PlanCSwiftSDK.h</key>
 		<data>
@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AlpusP7kPf3s3wNtqqKTavEXBK4=
+		CLEo12qWjtLhGgD5Zg1F38dmRqM=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		SB6TI1F25SEbEf80s8GnHwUMn68=
+		Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		UwM7bIq95LokFI4hC6qV0ffdNFk=
+		F2bV3zWk9tJOgb0EEKEw9Xi+cfg=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		SB6TI1F25SEbEf80s8GnHwUMn68=
+		Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
 		</data>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		6MsphjTq/Fv8QbLTP4Ql9WVHeWc=
+		CPlJWhAJoKb875W/VHCY5+6GUd0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o7d5mVOQT+vgACUKWHkJmS+ilmk=
+			+q44UObgPsdYiHrOTpeHmZ4ac50=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8HyRvB2Z0/LlGim9OvaCWGEpelHJKxFN6FH1sEtyfk=
+			Y+1C0tOF4ZrbY1tFQUe1QPIabDyvGGd7mawMfNZoWOw=
 			</data>
 		</dict>
 		<key>Headers/PlanCSwiftSDK.h</key>
@@ -73,55 +73,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AlpusP7kPf3s3wNtqqKTavEXBK4=
+			CLEo12qWjtLhGgD5Zg1F38dmRqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8IpNPL9g/28/LZlsFpnK8zDXK7ruoXWbmwICy/wartI=
+			jUuCYn7rMsZbq1gG8mve4tmWL92AVnGeMngGXHmZ9vs=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SB6TI1F25SEbEf80s8GnHwUMn68=
+			Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pk75cKxgMV5S2CoIhYaT4RwY2MqvOCxWzFgXADQxGZI=
+			fEYp6lBbSXRlyERg8g/iaq7U+04Fj1JyrP+XVtc3Myc=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UwM7bIq95LokFI4hC6qV0ffdNFk=
+			F2bV3zWk9tJOgb0EEKEw9Xi+cfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sDxkB/xrCRMEZxalIJAU0nRxJkCAD4a3KKW+UMp8/M4=
+			H5Hi7u7vEoD6TtPrxC/Xp/cjLj+OGoe9UFE3DfDXxhI=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SB6TI1F25SEbEf80s8GnHwUMn68=
+			Pr2xmDo6RzEB5H8qgMeuD/PO09Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pk75cKxgMV5S2CoIhYaT4RwY2MqvOCxWzFgXADQxGZI=
+			fEYp6lBbSXRlyERg8g/iaq7U+04Fj1JyrP+XVtc3Myc=
 			</data>
 		</dict>
 		<key>Modules/PlanCSwiftSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6MsphjTq/Fv8QbLTP4Ql9WVHeWc=
+			CPlJWhAJoKb875W/VHCY5+6GUd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ajzvS+g89e4MhofkiSh4geW52KE3WjP0HHdbEMhSmWs=
+			0YEh/KaGfTQiFtcduSO5ArOMZLBKDTfy+TLPru013a8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
